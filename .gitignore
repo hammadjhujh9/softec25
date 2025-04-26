@@ -1,0 +1,10 @@
+# Virtualenv
+myenv/
+
+# System files
+.DS_Store
+
+# General node and python ignores
+node_modules/
+*.log
+*.sqlite3
